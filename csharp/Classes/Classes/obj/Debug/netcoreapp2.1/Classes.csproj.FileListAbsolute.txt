@@ -1,0 +1,10 @@
+C:\Users\Chris\Documents\projects\practice\csharp\Classes\Classes\bin\Debug\netcoreapp2.1\Classes.deps.json
+C:\Users\Chris\Documents\projects\practice\csharp\Classes\Classes\bin\Debug\netcoreapp2.1\Classes.runtimeconfig.json
+C:\Users\Chris\Documents\projects\practice\csharp\Classes\Classes\bin\Debug\netcoreapp2.1\Classes.runtimeconfig.dev.json
+C:\Users\Chris\Documents\projects\practice\csharp\Classes\Classes\bin\Debug\netcoreapp2.1\Classes.dll
+C:\Users\Chris\Documents\projects\practice\csharp\Classes\Classes\bin\Debug\netcoreapp2.1\Classes.pdb
+C:\Users\Chris\Documents\projects\practice\csharp\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\projects\practice\csharp\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\projects\practice\csharp\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.AssemblyInfo.cs
+C:\Users\Chris\Documents\projects\practice\csharp\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.dll
+C:\Users\Chris\Documents\projects\practice\csharp\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.pdb
