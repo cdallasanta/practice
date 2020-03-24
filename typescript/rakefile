@@ -1,0 +1,8 @@
+task :commit do
+  message = "Source updated at #{Time.now}."
+  system "cd .."
+  system "git add ."
+  system "git commit -a -m \"Source updated at #{Time.now}.\""
+  system "git push origin master"
+  system "cd typescript"
+end
