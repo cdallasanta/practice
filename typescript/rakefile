@@ -1,4 +1,4 @@
-task :commit do
+task :push do
   message = "Source updated at #{Time.now}."
   system "cd .."
   system "git add ."
